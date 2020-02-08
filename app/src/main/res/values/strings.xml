@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieRaitingApp</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="pilot">Pilot</string>
+    <string name="rating">Rating</string>
+</resources>
